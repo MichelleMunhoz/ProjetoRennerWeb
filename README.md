@@ -6,7 +6,7 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<p align="center">🚀 framework desenvolvido em Java, com biblioteca Selenium, Junit e Cucumber</p>
+<p align="center">🚀 Framework desenvolvido em Java, com biblioteca Selenium, Junit e Cucumber</p>
 
 Tabela de conteúdos
 =================
@@ -14,7 +14,7 @@ Tabela de conteúdos
    * [Instalação](#instalação)
    Instalar o Java, JDK e o IDE Eclipse IntelliJ
    * [Como usar](#como-usar)
-   Clonar o projeto, abrir o projeto no Eclipse e executar com Junit.
+   Clonar o projeto, abrir no Eclipse e executar.
    * [Tecnologias](#tecnologias)
    Linguagem Java, IDE Eclipe IntelliJ, biblioteca Selenium e cucumber.
 <!--te-->
